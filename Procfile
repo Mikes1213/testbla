@@ -1,1 +1,1 @@
-worker: python FajnyBot.py
+worker: python Fajnybot.py
