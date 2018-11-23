@@ -1,1 +1,1 @@
-worker: python Fajnybot.py
+worker: node bots.js
